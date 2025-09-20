@@ -1,6 +1,6 @@
 # **Microsoft Tenant Stats**
 
-### Acquired using a previously uploaded script - https://github.com/rce0day/Tenant-osint ###
+### Acquired using a previously uploaded script - https://github.com/femshift/Tenant-osint ###
 This dataset and statistical analysis was initially made to see interesting statistical data but outputted an interesting insight into SSO SaaS companies' market share.
 
 ### What is so interesting about this data? ###
